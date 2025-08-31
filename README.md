@@ -10,9 +10,9 @@ This repository showcases logic-based tools and accounting systems I've built fo
 
 | Project      | Description                                      | Link              |
 |--------------|--------------------------------------------------|-------------------|
-| InvoiceGen   | Lightweight invoice generator with PDF export    | [view](rabeeadanish03@gmail.com)|         |
-| LedgerLite   | Simple accounting tool with double-entry support | [View]((rabeeadanish03@gmail.com)         |
-| FormEase     | GUI-based form builder for business workflows    | [View]((rabeeadanish03@gmail.com)         |
+| InvoiceGen   | Lightweight invoice generator with PDF export    | [view](rabeeadanish03@gmail.com)|         
+| LedgerLite   | Simple accounting tool with double-entry support | [View](rabeeadanish03@gmail.com)|
+| FormEase     | GUI-based form builder for business workflows    | [View](rabeeadanish03@gmail.com)|
 
 ## 💼 Hire Me
 
